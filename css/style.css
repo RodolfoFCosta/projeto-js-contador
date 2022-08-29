@@ -43,7 +43,7 @@ h1 {
 }
 
 span {
-    color: rgb(0, 93, 0);
+    color: rgb(223, 232, 223);
     font-size: clamp(2em, 20vw, 5em);
     font-weight: 700;
 }
